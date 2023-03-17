@@ -27,6 +27,10 @@ export default function Home() {
       'title': 'TV2 Play',
       'link': 'https://play.tv2.dk/'
     },
+    {
+      'title': 'Apple TV',
+      'link': 'https://tv.apple.com'
+    },
   ];
 
   return (
